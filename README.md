@@ -286,8 +286,54 @@ El valor está en la confianza y practicidad. Los ingresos provendrán de:
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+segmento 1 
+
+
+
+segemento 2 
+
+ya esta hecho 
+
 ### 2.3.2. User Task Matrix
+
+
+segmento 1
+
+
+segmento 2 
+
+- Nombre: Iris Violeta 
+- Edad: 46 años
+- Ocupación: Trabajora  
+- Interés: Que sus hijos estén bien cuidados para no sentir preocupación 
+
+| **Tarea** | **Frecuencia** | **Importancia** | **Comentarios** |
+|-----------|----------------|-----------------|-----------------|
+| Buscar niñeras disponibles cerca de su distrito | Alta | Alta | Es la acción principal; Iris quiere disponibilidad inmediata y confiable. |
+| Revisar perfiles completos con fotos, certificaciones y antecedentes | Media-Alta | Alta | Le da confianza y seguridad; clave para la decisión. |
+| Leer reseñas y referencias de otros padres | Media | Alta | Refuerza confianza y reduce incertidumbre. |
+| Contactar a la niñera por chat/videollamada antes de contratar | Media | Alta | Necesita interacción previa para evaluar compatibilidad. |
+| Filtrar por disponibilidad horaria y costo | Media | Alta | Fundamental para que el servicio se ajuste a su necesidad real (urgencia + presupuesto). |
+| Solicitar una reserva | Media | Alta | Paso natural tras elegir candidata; debe ser simple y rápido. |
+| Realizar pago seguro dentro de la app | Media | Alta | Si no siente seguridad en el pago, no confiará en la app. |
+| Dejar reseña después del servicio | Baja | Media | Aporta valor al sistema, pero no es prioridad inmediata para Iris. |
+| Revisar beneficios y políticas de seguridad en la landing | Baja | Media | Útil al inicio, sobre todo para generar confianza en la primera experiencia. |
+| Actualizar información personal (hijos, contacto) | Baja | Media | Importante, pero no es una acción frecuente. |
+
+
 ### 2.3.3. User Journey Mapping
+
+
+segemnto 1
+
+
+segmento 2
+
+
+listo 
+
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 
