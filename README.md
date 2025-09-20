@@ -289,7 +289,7 @@ El valor está en la confianza y practicidad. Los ingresos provendrán de:
 
 segmento 1 
 
-
+ya esta hecho
 
 segemento 2 
 
@@ -300,6 +300,25 @@ ya esta hecho
 
 segmento 1
 
+- Nombre: Ingrid Nazareth  
+- Edad: 21 años  
+- Ocupación: Niñera  
+- Interés: Conseguir empleos estables, seguros y justos con familias confiables  
+
+| **Tarea** | **Frecuencia** | **Importancia** | **Comentarios** |
+|-----------|----------------|-----------------|-----------------|
+| Crear y mantener su perfil con información actualizada (foto, experiencia, referencias) | Media | Alta | Le da más posibilidades de ser contratada y genera confianza en las familias. |
+| Revisar ofertas de trabajo disponibles (por distrito, horarios, pago) | Alta | Alta | Es la acción principal para conseguir empleo. |
+| Filtrar por condiciones claras (pago, horarios, responsabilidades) | Media | Alta | Le permite evitar trabajos poco serios o con información incompleta. |
+| Postularse a una oferta o enviar solicitud de trabajo | Media | Alta | Paso fundamental para iniciar contacto con familias. |
+| Comunicarse con la familia interesada (chat/llamada) | Media | Alta | Necesita confirmar reglas, expectativas y compatibilidad antes de aceptar. |
+| Revisar que haya contrato digital y condiciones claras | Media | Alta | Su principal punto de seguridad; evita riesgos de informalidad. |
+| Aceptar un trabajo y confirmar la reserva | Media | Alta | Acción clave para asegurar el empleo. |
+| Recibir pagos de manera segura dentro de la plataforma | Media | Alta | Crucial para garantizar confianza y formalidad en el servicio. |
+| Consultar reseñas/comentarios sobre la familia antes de aceptar | Media | Alta | Refuerza su decisión y reduce la desconfianza. |
+| Calificar a la familia después del trabajo | Baja | Media | Contribuye al sistema de confianza, pero no siempre es prioridad para ella. |
+| Revisar beneficios, garantías o soporte de la plataforma | Baja | Media | Le da tranquilidad, sobre todo al inicio o en casos de problemas. |
+| Actualizar disponibilidad horaria | Media | Media | Necesario para que la contacten, pero no es su acción diaria. |
 
 segmento 2 
 
@@ -327,19 +346,52 @@ segmento 2
 
 segemnto 1
 
+ya esta hecho 
 
 segmento 2
 
+ya esta hecho 
 
 listo 
 
 
 ### 2.3.4. Empathy Mapping
+
+segmento 1 
+
+hecho
+
+segmento 2 
+
+heho 
+
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
 
----
+
+El **Ubiquitous Language** será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo.
+
+
+- **Niñera Verificada**: Persona cuidadora que ha pasado el proceso de verificación de identidad, referencias y experiencia por parte de la plataforma.  
+
+- **Padre de familia**: Persona(s) que busca(n) servicios de cuidado infantil a través de la app para sus hijos.  
+
+- **Perfil Profesional**: Página personal de la niñera con información relevante como experiencia, certificaciones, disponibilidad y calificaciones.  
+
+- **Solicitud de Servicio**: Acción iniciada por un padre para contactar y contratar una niñera en una fecha y horario específicos.  
+
+- **Match Seguro**: Coincidencia entre niñera y familia basada en filtros (ubicación, disponibilidad, experiencia) y políticas de seguridad.  
+
+- **Calificación y Reseña**: Sistema de evaluación que permite a los usuarios valorar la experiencia después de cada servicio.  
+
+- **Verificación de Identidad**: Proceso obligatorio para todas las niñeras antes de publicar su perfil, incluyendo documentos, entrevistas o chequeo de antecedentes.  
+
+- **Reservación Confirmada**: Estado del servicio cuando ambas partes (niñera y padre) han aceptado los términos y se ha fijado el horario.  
+
+- **Panel de Seguridad**: Conjunto de funciones dentro de la app que aseguran la transparencia y protección de todos los usuarios (verificación, soporte, seguimiento en tiempo real).  
+
 
 # Capítulo III: Requirements Specification
 
