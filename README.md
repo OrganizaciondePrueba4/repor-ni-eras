@@ -265,8 +265,34 @@ El valor está en la confianza y practicidad. Los ingresos provendrán de:
 
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
-#### Panorama de análisis competitivo
-#### Análisis FODA
+
+Para identificar las ventajas competitivas de **Trustora** frente a competidores globales, digitales y tradicionales, reconociendo fortalezas, debilidades, oportunidades y amenazas que permitan afinar la propuesta de valor y asegurar el posicionamiento en el mercado latinoamericano de cuidado infantil.
+
+---
+
+### Comparación por Categorías
+
+| **Categoría** | **Trustora (Startup)** | **Care.com** | **Babysits** | **Agencias Locales** |
+|---------------|-------------------------|--------------|--------------|-----------------------|
+| **Perfil – Overview** | Plataforma digital segura y confiable para conectar padres con niñeras verificadas en Latinoamérica. | Marketplace global líder en cuidado infantil y doméstico. | Comunidad digital con perfiles básicos y sistema de reseñas. | Empresas presenciales que conectan familias con niñeras bajo contrato. |
+| **Ventaja Competitiva** | Seguridad (verificación de identidad y antecedentes), personalización avanzada y experiencia fluida en un solo espacio. | Amplia red de usuarios, marca reconocida mundialmente. | Simplicidad y bajos costos para padres y niñeras. | Percepción de formalidad inicial y respaldo legal básico. |
+| **Mercado Objetivo** | Padres de clase media y alta en Latinoamérica que buscan confianza y rapidez. | Familias de países desarrollados, principalmente EE. UU. y Europa. | Familias jóvenes que buscan soluciones económicas y rápidas. | Familias tradicionales que prefieren procesos presenciales y contratos físicos. |
+| **Estrategias de Marketing** | Marketing digital (redes sociales, SEO, campañas educativas sobre seguridad). | Publicidad masiva, PR, alianzas con marcas internacionales. | Posicionamiento web y marketing en buscadores. | Publicidad local, referidos y boca a boca. |
+| **Productos & Servicios** | Perfiles verificados, reservas online, chat seguro, pagos integrados, seguimiento de servicios. | Membresías premium, reservas online, reseñas. | Perfiles con reseñas, búsqueda y contacto directo. | Selección de niñeras, contratos y pagos presenciales. |
+| **Precios & Costos** | Modelo freemium: servicios básicos gratuitos + suscripción premium accesible. | Membresías mensuales o anuales de alto costo. | Bajo costo o gratuito con comisión mínima. | Altas comisiones y costos de intermediación. |
+| **Canales de Distribución (Web/Móvil)** | App móvil y web responsiva. | App móvil y web. | Plataforma web y móvil. | Presencial (oficinas físicas) y algunos sitios web poco optimizados. |
+
+---
+
+### Análisis SWOT
+
+| **Categoría** | **Trustora** | **Care.com** | **Babysits** | **Agencias Locales** |
+|---------------|--------------|--------------|--------------|-----------------------|
+| **Fortalezas** | Seguridad, personalización, enfoque regional, UX amigable. | Marca global, base de usuarios masiva. | Simplicidad, costos bajos. | Formalidad percibida, contratos presenciales. |
+| **Debilidades** | Startup nueva, bajo reconocimiento inicial. | Costos altos, no adaptado al mercado LATAM. | Baja verificación, poca seguridad. | Procesos lentos, altos costos, poca digitalización. |
+| **Oportunidades** | Creciente demanda digital en LATAM, preocupación por seguridad infantil, auge de apps móviles. | Expansión a nuevos mercados. | Ampliar servicios premium o seguridad. | Digitalización y adopción de herramientas online. |
+| **Amenazas** | Competidores globales con más recursos, desconfianza inicial en nuevas plataformas. | Aparición de startups locales más adaptadas. | Competidores más seguros y verificados. | Desintermediación por apps digitales más rápidas y económicas. |
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -367,6 +393,14 @@ heho
 
 
 ### 2.3.5. As-is Scenario Mapping
+
+segmento 1 
+
+hecho
+
+segmento 2 
+
+heho 
 
 ## 2.4. Ubiquitous Language
 
