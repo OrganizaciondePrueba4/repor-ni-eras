@@ -264,6 +264,17 @@ El valor está en la confianza y practicidad. Los ingresos provendrán de:
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
+
+| **Nombre**        | **Descripción**                                                                                                                  | **Características Principales**                                                                                   |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Care.com**       | Marketplace global fundado en EE. UU., líder en servicios de cuidado infantil, doméstico y de adultos mayores. Opera en más de 20 países y cuenta con millones de usuarios activos. | - Amplia red internacional de familias y cuidadores.<br>- Marca globalmente reconocida.<br>- Plataforma con múltiples servicios (niñeras, limpieza, cuidado de adultos). |
+| **Babysits**       | Comunidad digital enfocada en conectar familias con niñeras a nivel global. Permite a los usuarios crear perfiles, dejar reseñas y contactar directamente sin intermediarios. | - Simplicidad en el registro y uso.<br>- Bajos costos para padres y niñeras.<br>- Modelo de comunidad con reseñas públicas. |
+| **Agencias Locales** | Empresas presenciales tradicionales que operan en distintas ciudades de Latinoamérica. Se especializan en conectar familias con niñeras mediante entrevistas, contratos y procesos manuales. | - Percepción de formalidad inicial y respaldo legal básico.<br>- Selección presencial de niñeras.<br>- Procesos más lentos y costos de intermediación más altos. |
+
+
+
+
 ### 2.1.1. Análisis competitivo
 
 Para identificar las ventajas competitivas de **Trustora** frente a competidores globales, digitales y tradicionales, reconociendo fortalezas, debilidades, oportunidades y amenazas que permitan afinar la propuesta de valor y asegurar el posicionamiento en el mercado latinoamericano de cuidado infantil.
@@ -296,10 +307,83 @@ Para identificar las ventajas competitivas de **Trustora** frente a competidores
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+
+|                     | **Oportunidades (O)**                                                                                                    | **Amenazas (A)**                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Fortalezas (F)** | **Estrategias FO**<br>- Potenciar la verificación de identidad y seguridad como principal diferenciador en LATAM.<br>- Ampliar la personalización avanzada para atender a familias preocupadas por la seguridad infantil.<br>- Campañas digitales resaltando el enfoque regional como ventaja frente a plataformas globales. | **Estrategias FA**<br>- Usar la verificación estricta como defensa frente a competidores con más recursos.<br>- Posicionar el enfoque regional para diferenciarse de plataformas internacionales.<br>- Reforzar la UX amigable para competir con startups locales emergentes. |
+| **Debilidades (D)** | **Estrategias DO**<br>- Invertir en branding y marketing educativo para aumentar reconocimiento.<br>- Asociarse con ONGs y escuelas para generar confianza.<br>- Desarrollar una app ligera y accesible aprovechando el auge móvil. | **Estrategias DA**<br>- Crear alianzas con aseguradoras, clínicas o entidades confiables.<br>- Implementar embajadores de marca (padres y niñeras verificadas).<br>- Adoptar un modelo freemium escalable para reducir costos iniciales. |
+
+
+
 ## 2.2. Entrevistas
+
+
+
+El presente documento tiene como finalidad recopilar y estructurar la información obtenida a través de entrevistas realizadas a dos grupos clave: **niñeras certificadas** y **padres de familia**. Estas entrevistas forman parte del proceso de investigación para el desarrollo de la plataforma digital **Trustora**, cuyo objetivo es brindar un espacio seguro, confiable y accesible para la conexión entre familias que requieren servicios de cuidado infantil y profesionales calificadas en este ámbito.  
+
+La importancia de este estudio radica en comprender las **necesidades, expectativas, preocupaciones y experiencias previas** de los actores involucrados. De esta manera, se busca identificar tanto las problemáticas existentes en los métodos actuales de búsqueda y contratación, como las oportunidades de mejora que una solución tecnológica podría ofrecer.  
+
+El documento se encuentra estructurado en dos secciones principales:  
+- **Preguntas dirigidas a niñeras certificadas**, con el fin de conocer sus motivaciones, dificultades y percepciones sobre la seguridad y formalidad del trabajo.  
+- **Preguntas dirigidas a padres de familia**, con el propósito de entender sus criterios de selección, principales temores y expectativas respecto a los servicios de cuidado infantil.  
+
+
+
+
+
 ### 2.2.1. Diseño de entrevistas
-#### Preguntas para niñeras certificadas
-#### Preguntas para padres de familia
+
+
+## Preguntas para Niñeras
+
+### 1. Información complementaria (demográfica, conductual y digital)
+
+- Nombre, edad y género.  
+- Ciudad o distrito donde resides y disponibilidad geográfica.  
+- Estado civil y composición familiar (vives solo/a o con familiares).  
+- Nivel educativo y formación en cuidado infantil o certificaciones.  
+- Habilidades específicas o fortalezas que consideras importantes para tu trabajo.  
+- Herramientas digitales que utilizas con frecuencia (WhatsApp, Facebook, apps de trabajo, otras redes).  
+- Canales por donde te gustaría recibir ofertas de trabajo.  
+
+## 2. Información principal
+
+- ¿Qué es lo que más valoras al trabajar con una familia?  
+- ¿Cuáles son las principales dificultades que encuentras para conseguir trabajo como niñera?  
+- ¿Qué aspectos te generan más desconfianza al aceptar un empleo?  
+- ¿Cómo sueles encontrar trabajo actualmente? (contactos, redes sociales, agencias, etc.)  
+- ¿Qué características te gustaría que tenga una plataforma digital que conecte niñeras con familias?  
+- ¿Qué tipo de garantías o beneficios te harían sentir más segura al usar una aplicación como Trustora?  
+- ¿Estarías dispuesta a pagar una pequeña comisión o suscripción si la plataforma te garantiza mayor seguridad y empleos constantes?  
+- ¿Qué experiencia positiva o negativa recuerdas que podría ayudar a mejorar este tipo de servicios?  
+
+---
+
+## Preguntas para Padres de Familia
+
+### 1. Información complementaria (demográfica, conductual y digital)
+
+- Nombre, edad y género.  
+- Ciudad o distrito de residencia.  
+- Estado civil y composición familiar (número de hijos y edades).  
+- Ocupación y nivel educativo.  
+- Dispositivos y canales digitales que utilizas para buscar servicios (apps, redes sociales, webs, recomendaciones de amigos/familia).  
+
+## 2. Información principal
+
+- ¿Qué es lo más importante para ti al contratar a una niñera?  
+- ¿Cuáles son tus principales preocupaciones al dejar a tus hijos al cuidado de alguien?  
+- ¿Cómo sueles encontrar niñeras actualmente? (recomendaciones, grupos en Facebook, agencias, etc.)  
+- ¿Qué limitaciones encuentras en los métodos actuales de búsqueda?  
+- ¿Qué características te darían más confianza en una plataforma como Trustora?  
+- ¿Qué información te gustaría ver en el perfil de una niñera (experiencia, certificaciones, reseñas, etc.)?  
+- ¿Qué opinas sobre pagar una suscripción o comisión si la plataforma garantiza seguridad y rapidez?  
+- ¿Qué tan importante es para ti ver opiniones o calificaciones de otros padres?  
+- ¿Qué servicios adicionales valorarías (seguimiento en tiempo real, seguro, contratos digitales, etc.)?  
+- ¿Qué mala experiencia has tenido (si la tuviste) al contratar una niñera y cómo crees que se podría evitar?  
+
+
+
 
 ### 2.2.2. Registro de entrevistas
 #### Entrevista
